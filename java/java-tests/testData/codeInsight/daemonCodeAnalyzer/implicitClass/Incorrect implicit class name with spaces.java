@@ -1,1 +1,0 @@
-<error descr="The file name of an implicitly declared class is not a valid identifier">void main() {}</error>
